@@ -1,2 +1,2 @@
 # GiftExpertAPP
-React i Vite Javascript
+React i Vite + Javascript i més
